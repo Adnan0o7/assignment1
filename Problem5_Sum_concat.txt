@@ -13,10 +13,10 @@ def sum_concat(first,second)
 
  	sum_concat("adnan","adnan")
  	sum_concat(12,24)
-
+	sum_concat(12,"adnan")
 output: adnanadnan
 	36
 	you must enter number or string
- 	sum_concat(12,"adnan")
+ 	
 
 	
