@@ -6,10 +6,10 @@
 
 3. Write a program in ruby that modifies the input string and returns alternate case of each character of that string. (eg> "adnan" should be "AdNaN")
 
-4. Scenario: Write a program that converts the given hash = {:leo_messi => 'forward', :steven_gerrard => 'midfielder', :john_terry => 'defender'} into the following output >>  
-Leo Messi is a Forward
-Steven Gerrard is a Midfielder
-John Terry is a Defender
+4. Scenario: Write a program that converts the given hash = hash = {:sachin_tendulkar => 'batsman', :zaheer_khan => 'bowler', :m_s_dhoni => 'wicket_keeper'} into the following output >>  
+Sachin Tendulkar is a Batsman
+Zaheer Khan is a Bowler
+M S Dhoni is a Wicket Keeper
 
 5. Write a ruby program that accepts two parameters and returns the sum if they are integer type and concatinates if they are string type.
 NOTE: display error if first and second are not from the same type.
